@@ -16,5 +16,3 @@ Sucesso! a imagem ficou exatamente como a descrevi e o conteúdo do blog para pr
 
 ## 💭 Reflexão (Opcional)
 Muito legal colocar em pratica o conteúdo, Valeu!
-
-git commit -m "Alteração no readme "
